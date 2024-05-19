@@ -1,8 +1,8 @@
-# React + Vite
+# Tutam SBD Modul 9
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web untuk notes, belum ada implementasi backendnya sementara ini
 
-Currently, two official plugins are available:
+# Author
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Darmawan Hanif
+- ABC Susu panas
