@@ -2,7 +2,7 @@
 
 Web untuk notes, belum ada implementasi database sementara ini
 
-# Author
+## Author
 
 - Darmawan Hanif
 - ABC Susu panas
