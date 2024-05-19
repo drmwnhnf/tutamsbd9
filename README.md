@@ -1,6 +1,6 @@
 # Tutam SBD Modul 9
 
-Web untuk notes, belum ada implementasi backendnya sementara ini
+Web untuk notes, belum ada implementasi database sementara ini
 
 # Author
 
